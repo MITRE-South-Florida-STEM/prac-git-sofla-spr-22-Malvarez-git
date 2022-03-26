@@ -1,2 +1,2 @@
-**Things Learned**
-I have learned about Pull Request and creating Branches.
+# Things Learned
+**I have learned about Pull Request and creating Branches.**
